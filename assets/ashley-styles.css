@@ -60,12 +60,19 @@ header img {
     justify-content: center;
 }
 
+/* DIVIDERS */
+
+.trans {
+    margin-top: -150px;
+    margin-bottom: -20px;
+}
+
 /* ABOUT */
 
 #about {
     height: 100vh;
     width: 100vw;
-    background-color: #5F545F;
+    background-color: hsl(300, 7%, 36%);
     display: flex;
     justify-content: center;
     align-items: center;
